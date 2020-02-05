@@ -1,4 +1,5 @@
 /***** Carrega as bibliotecas *****/
+#include "Arduino.h"
 #include <SoftwareSerial.h>
 #include "RS485_protocol.h"
 #include <Wire.h>
