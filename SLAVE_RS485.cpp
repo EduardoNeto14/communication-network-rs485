@@ -2,7 +2,6 @@
 #include "Arduino.h"
 #include <SoftwareSerial.h>
 #include "RS485_protocol.h"
-#include "Arduino.h"
 #include <IRremote.h>
 #include <DHT.h>
 
